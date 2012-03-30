@@ -1,0 +1,979 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pi",
+				"PirateTorrentItem"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"re",
+				"required_label"
+			],
+			[
+				"requ",
+				"required_label"
+			],
+			[
+				"fi",
+				"field"
+			],
+			[
+				"Boo",
+				"BootstrapForm"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"Cre",
+				"CreateOkazView"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"pag",
+				"paginator_wrapper"
+			],
+			[
+				"back",
+				"background: background-color: name"
+			],
+			[
+				"paginate",
+				"paginate_by"
+			],
+			[
+				"D",
+				"DEBUG_TOOLBAR_CONFIG"
+			],
+			[
+				"ST",
+				"STATIC_URL"
+			],
+			[
+				"en",
+				"endblock"
+			],
+			[
+				"pass",
+				"password_complete"
+			],
+			[
+				"my_",
+				"my_reciver"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"Re",
+				"RedirectView"
+			],
+			[
+				"Li",
+				"ListView"
+			],
+			[
+				"Te",
+				"TextField"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"redire",
+				"redirect"
+			],
+			[
+				"timestamp",
+				"timestamp_str"
+			],
+			[
+				"sta",
+				"status_code"
+			],
+			[
+				"assertE",
+				"assertEqual"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"Gatu",
+				"Gatunek"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"ran",
+				"random_date"
+			],
+			[
+				"if",
+				"ifmain: if __name__ == '__main__'"
+			],
+			[
+				"ad",
+				"add_okazy"
+			],
+			[
+				"gatun",
+				"gatunek"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"Ba",
+				"BaseCommand"
+			],
+			[
+				"P",
+				"PRIVATE_CHOICES"
+			],
+			[
+				"Request",
+				"RequestContext"
+			],
+			[
+				"S",
+				"STATIC_URL"
+			],
+			[
+				"gatu",
+				"gatunek"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"__",
+				"__unicode__"
+			],
+			[
+				"Date",
+				"DateTimeField"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"sp",
+				"splitter"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"dia",
+				"dialog"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"M",
+				"MyDialog"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"Q",
+				"QtGui"
+			],
+			[
+				"se",
+				"second_edit"
+			],
+			[
+				"ed",
+				"edit"
+			],
+			[
+				"add",
+				"addWidget"
+			],
+			[
+				"QG",
+				"QGridLayout"
+			],
+			[
+				"mai",
+				"main_window"
+			],
+			[
+				"Ma",
+				"MainWindow"
+			],
+			[
+				"Add",
+				"AddressBook"
+			],
+			[
+				"Al",
+				"AlignTop"
+			],
+			[
+				"na",
+				"name_line"
+			],
+			[
+				"name_",
+				"name_label"
+			],
+			[
+				"Ql",
+				"QLabel"
+			],
+			[
+				"uk",
+				"uk_client"
+			],
+			[
+				"get_",
+				"get_prices"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"uk_cl",
+				"uk_client"
+			],
+			[
+				"ge",
+				"get_runners_names"
+			],
+			[
+				"my",
+				"my_client"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"Exc",
+				"Exception"
+			],
+			[
+				"erro",
+				"errorCode"
+			],
+			[
+				"uk_",
+				"uk_client"
+			],
+			[
+				"cl",
+				"clientStamp"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"get",
+				"get_all_markets"
+			],
+			[
+				"Lo",
+				"Logged"
+			],
+			[
+				"Cl",
+				"ClientState"
+			],
+			[
+				"Un",
+				"Unknown"
+			],
+			[
+				"Clie",
+				"ClientState"
+			],
+			[
+				"uk_c",
+				"uk_client"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"_t",
+				"_token"
+			],
+			[
+				"U",
+				"UK_URL"
+			],
+			[
+				"G",
+				"GLOBAL_URL"
+			],
+			[
+				"_global_",
+				"_global_client"
+			],
+			[
+				"UK",
+				"UK_URL"
+			],
+			[
+				"get_g",
+				"get_global_client"
+			],
+			[
+				"client",
+				"client (imported, module)"
+			],
+			[
+				"Mar",
+				"MarketSummary"
+			],
+			[
+				"glo",
+				"global_client"
+			],
+			[
+				"ev",
+				"eventParentId"
+			],
+			[
+				"cli",
+				"clientStamp"
+			],
+			[
+				"plan",
+				"plansza"
+			],
+			[
+				"Pla",
+				"Plansza"
+			],
+			[
+				"use",
+				"use_numpy"
+			],
+			[
+				"forw",
+				"forward"
+			],
+			[
+				"_",
+				"_plansza"
+			],
+			[
+				"pla",
+				"plansza"
+			],
+			[
+				"asse",
+				"assertEqual"
+			],
+			[
+				"Plan",
+				"Plansza"
+			],
+			[
+				"ava",
+				"available_moves"
+			],
+			[
+				"so_",
+				"so_far"
+			],
+			[
+				"make",
+				"make_move"
+			],
+			[
+				"plans",
+				"plansza"
+			],
+			[
+				"a",
+				"available_moves"
+			],
+			[
+				"bla",
+				"black_won"
+			],
+			[
+				"cou",
+				"count_pawns"
+			],
+			[
+				"av",
+				"available_moves"
+			],
+			[
+				"proce",
+				"process_page"
+			],
+			[
+				"deb",
+				"debug"
+			],
+			[
+				"T",
+				"TV_ADDRESS"
+			],
+			[
+				"mak",
+				"make_move"
+			],
+			[
+				"c",
+				"count_pawns"
+			],
+			[
+				"available",
+				"available_moves"
+			],
+			[
+				"availa",
+				"available_moves"
+			],
+			[
+				"mo",
+				"moves"
+			],
+			[
+				"available_",
+				"available_moves"
+			],
+			[
+				"DI",
+				"DIRS"
+			],
+			[
+				"VE",
+				"VECS"
+			],
+			[
+				"ch",
+				"check_move"
+			],
+			[
+				"B",
+				"BLACK"
+			],
+			[
+				"net",
+				"net_hit"
+			],
+			[
+				"ne",
+				"net_probability"
+			],
+			[
+				"rin",
+				"ring_probability"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scrapy_pirate/items.py",
+			"settings":
+			{
+				"buffer_size": 2344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scrapy_pirate/spiders/pirate_spider.py",
+			"settings":
+			{
+				"buffer_size": 1755,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.txt",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "items.json",
+			"settings":
+			{
+				"buffer_size": 426825,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"snippet",
+				"Snippet: self"
+			],
+			[
+				"sni",
+				"Snippet: New Class"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 315.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/arek/kod/scrapy_pirate/items.json",
+		"/home/arek/pirate.sh",
+		"/home/arek/kod/pirate/send_email2.py",
+		"/home/arek/kod/euler/23/to_word.py",
+		"/home/arek/kod/django_projects/polow/contact/views.py",
+		"/home/arek/kod/django_projects/polow/contact/urls.py",
+		"/home/arek/kod/django_projects/polow/templates/contact/thanks.html",
+		"/home/arek/kod/django_projects/polow/templates/contact/contact.html",
+		"/home/arek/kod/django_projects/polow/static/app.css",
+		"/home/arek/kod/django_projects/polow/settings/local.py",
+		"/home/arek/kod/django_projects/polow/utils/bootstrap.py",
+		"/home/arek/kod/django_projects/polow/urls.py",
+		"/home/arek/kod/django_projects/polow/main/urls.py",
+		"/home/arek/kod/django_projects/polow/main/models.py",
+		"/home/arek/kod/django_projects/polow/main/views.py",
+		"/home/arek/kod/django_projects/polow/templates/main/okaz_add.html",
+		"/home/arek/kod/django_projects/polow/templates/main/okaz_update.html",
+		"/home/arek/kod/django_projects/polow/main/validators.py",
+		"/home/arek/kod/django_projects/polow/skrypty/web2py views/add_okaz.html",
+		"/home/arek/kod/django_projects/polow/templates/base.html",
+		"/home/arek/kod/django_projects/polow/utils/__init__.py",
+		"/home/arek/kod/django_projects/polow/templates/about.html",
+		"/home/arek/kod/django_projects/polow/templates/contact.html",
+		"/home/arek/kod/django_projects/polow/settings/base.py",
+		"/home/arek/kod/django_projects/polow/contact/models.py",
+		"/home/arek/kod/django_projects/polow/utils/bootstrap_form.py",
+		"/home/arek/Downloads/2631.py",
+		"/home/arek/kod/django_projects/polow/templates/main/okaz_form.html",
+		"/home/arek/kod/django_projects/polow/templates/main/okaz_list.html",
+		"/home/arek/kod/django_projects/polow/templates/main/okaz_detail.html",
+		"/home/arek/kod/django_projects/polow/skrypty/filldb",
+		"/home/arek/kod/django_projects/polow/dane.txt",
+		"/home/arek/.config/sublime-text-2/Packages/User/Global.sublime-settings",
+		"/home/arek/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/arek/kod/django_projects/polow/validators.py",
+		"/home/arek/kod/django_projects/polow/main/fixtures/gatunki.json",
+		"/home/arek/kod/django_projects/polow/skrypty/add_okaz.html",
+		"/home/arek/kod/django_projects/polow/notes.txt",
+		"/home/arek/kod/django_projects/polow/templates/main/gatunek_list.html",
+		"/home/arek/kod/django_projects/polow/templates/pagination/pagination.html",
+		"/home/arek/kod/django_projects/polow/skrypty/snippets",
+		"/home/arek/kod/django_projects/polow/templates/main/test.html",
+		"/home/arek/kod/django_projects/polow/static_root/app.css",
+		"/home/arek/kod/django_projects/polow/requirements.txt",
+		"/home/arek/kod/django_projects/polow/static/app.js",
+		"/home/arek/kod/django_projects/polow/settings/_settings.py",
+		"/home/arek/kod/django_projects/polow/.epio-app",
+		"/home/arek/kod/django_projects/polow/epio.ini",
+		"/home/arek/kod/django_projects/polow/settings/epio.py",
+		"/home/arek/.config/sublime-text-2/Packages/Default/Global.sublime-settings",
+		"/home/arek/Downloads/vm.py",
+		"/home/arek/kod/polow_django/polow/templates/main/index_old.html",
+		"/home/arek/kod/polow_django/polow/main/static/skrypt_modal.js",
+		"/home/arek/kod/polow_django/polow/templates/userena/signin_form.html",
+		"/home/arek/kod/polow_django/polow/templates/userena/profile_form.html",
+		"/home/arek/kod/polow_django/polow/main/static/skrypt.js",
+		"/home/arek/kod/polow_django/polow/main/urls.py",
+		"/home/arek/kod/polow_django/polow/templates/main/test.html",
+		"/home/arek/kod/polow_django/polow/main/static/my_modal.js",
+		"/home/arek/kod/polow_django/polow/templates/base-820.html",
+		"/home/arek/kod/polow_django/polow/templates/userena/base_userena.html",
+		"/home/arek/kod/polow_django/polow/templates/registration/login.html",
+		"/home/arek/kod/polow_django/polow/main/static/bootstrap.css",
+		"/home/arek/kod/polow_django/polow/templates/userena/__signin_form.html",
+		"/home/arek/kod/polow_django/polow/templates/registration/registration_complete.html",
+		"/home/arek/kod/polow_django/polow/templates/registration/registration_form.html",
+		"/home/arek/.virtualenvs/polow_django/lib/python2.6/site-packages/userena/tests/backends.py",
+		"/home/arek/kod/polow_django/django-registration/registration/backends/simple/urls.py",
+		"/home/arek/kod/polow_django/django-registration/registration/auth_urls.py",
+		"/home/arek/kod/polow_django/polow/main/static/2cols.css",
+		"/home/arek/kod/polow_django/polow/templates/main/gatunek_list.html",
+		"/home/arek/kod/polow_django/polow/templates/main/index.html",
+		"/home/arek/kod/polow_django/polow/templates/profiles/profile_list.html",
+		"/home/arek/kod/polow_django/polow/templates/profiles/edit_profile.html",
+		"/home/arek/kod/polow_django/polow/templates/profiles/profile_detail.html",
+		"/home/arek/kod/polow_django/polow/templates/profiles/create_profile.html",
+		"/home/arek/kod/polow_django/polow/templates/base.html",
+		"/home/arek/kod/polow_django/polow/main/tests.py",
+		"/home/arek/kod/polow_django/notes.txt",
+		"/home/arek/kod/polow_django/polow/settings.py",
+		"/home/arek/kod/polow_django/polow/main/static/styl.css",
+		"/home/arek/kod/polow_django/polow/templates/registration/logged_out.html",
+		"/home/arek/kod/polow_django/polow/templates/registration/register.html",
+		"/home/arek/kod/polow_django/polow/templates/main/login.html",
+		"/home/arek/.config/sublime-text-2/Packages/User/insert_timestamp.py",
+		"/home/arek/.config/sublime-text-2/Packages/User/insert_date.py",
+		"/home/arek/kod/polow_django/polow/main/management/commands/main_add.py",
+		"/home/arek/kod/polow_django/polow/main/management/commands/utils.py",
+		"/home/arek/kod/html/cennik.html",
+		"/home/arek/kod/polow_django/polow/main.json",
+		"/home/arek/kod/polow_django/polow/ipy.py",
+		"/home/arek/.bashrc",
+		"/home/arek/kod/polow_django/polow/skrypt.py",
+		"/home/arek/kod/polow_django/qt",
+		"/home/arek/kod/polow_django/polow/main/management/commands/qt.py",
+		"/home/arek/heniek.py",
+		"/home/arek/.ipython/profile_default/ipython_config.py",
+		"/tmp/ipython_edit_4b_O03.py",
+		"/home/arek/kod/polow_django/polow/main/management/commands/test.py",
+		"/home/arek/kod/polow_django/drop_main",
+		"/home/arek/kod/polow_django/polow/main/management/commands/parser.py",
+		"/home/arek/kod/polow_django/polow/main/views.py",
+		"/home/arek/kod/polow_django/polow/main/management/commands/gen_fixtures.py",
+		"/home/arek/.config/sublime-text-2/Packages/Theme - Soda/Soda Light.sublime-theme",
+		"/home/arek/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+		"/home/arek/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+		"/home/arek/.config/sublime-text-2/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/home/arek/.config/sublime-text-2/Packages/Theme - Soda/Soda Light/Widget - Soda Light.stTheme",
+		"/home/arek/.config/sublime-text-2/Packages/Theme - Soda/Soda Light/Widget - Soda Light.sublime-settings",
+		"/home/arek/kod/polow_django/polow/main/management/commands/gatunki.txt",
+		"/home/arek/kod/polow_django/polow/fixture_generator.py",
+		"/home/arek/kod/polow_django/polow/management/commands/gen_fixtures.py",
+		"/home/arek/kod/polow_django/polow/management/commands/__init__.py",
+		"/home/arek/kod/polow_django/polow/management/__init__.py",
+		"/home/arek/kod/polow_django/polow/urls.py",
+		"/home/arek/kod/polow_django/clear_main",
+		"/home/arek/kod/polow_django/polow/data.js",
+		"/home/arek/kod/polow_django/clear_main.sql",
+		"/home/arek/kod/polow_django/polow/main/fixtures/initial_data2.json",
+		"/home/arek/kod/polow_django/polow/main/admin.py",
+		"/home/arek/kod/polow_django/polow/templates/500.html",
+		"/home/arek/kod/polow_django/polow/main/templates/index.html",
+		"/home/arek/kod/polow_django/syncdb",
+		"/home/arek/kod/polow_django/start",
+		"/home/arek/kod/github/Django-1.3.1/extras/django_bash_completion",
+		"/home/arek/kod/polow_django/polow/start",
+		"/home/arek/kod/polow_flask/main.py",
+		"/home/arek/kod/polow_flask/login.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CustomForm",
+			"object",
+			"request",
+			"RequestContext",
+			"Edit profile",
+			"Edit details",
+			"Edit profile",
+			"Edytuj profil",
+			"szczegó",
+			"zobacz",
+			"center",
+			"centet",
+			"email or us",
+			"get_hexdigest",
+			"constant_time_compare",
+			"getCompleteMarketPricesCompressed",
+			"compressed",
+			"suds",
+			" $@ $<",
+			"text",
+			"Node",
+			"node",
+			"Node",
+			"node",
+			"Node",
+			"TransformNode",
+			"response.generic_patterns",
+			"files",
+			"center",
+			"def test",
+			"def test()",
+			"Fredrik Lundh",
+			"compress",
+			"self",
+			"adresy",
+			"x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"okaz",
+			"lines"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scrapy_pirate/items.py",
+					"settings":
+					{
+						"buffer_size": 2344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scrapy_pirate/spiders/pirate_spider.py",
+					"settings":
+					{
+						"buffer_size": 1755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1479,
+								1479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 246.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "notes.txt",
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "items.json",
+					"settings":
+					{
+						"buffer_size": 426825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								425994,
+								425994
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22762.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/arek/kod/harvester/harvester.sublime-project"
+			],
+			[
+				"all",
+				"/home/arek/kod/allegro.sublime-project"
+			],
+			[
+				"ha",
+				"/home/arek/kod/harvester/harvester.sublime-project"
+			],
+			[
+				"harv",
+				"/home/arek/kod/harvester/harvester.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}
